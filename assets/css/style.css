@@ -1,0 +1,12 @@
+.container{
+    height: 100vh;
+    padding: 90px;
+}
+.quad{
+    height: 160px;
+    background-color: aqua;
+    border: 2px solid #666;
+}
+.btnn{
+    padding: 10px;
+}
