@@ -3,10 +3,21 @@
     padding: 90px;
 }
 .quad{
-    height: 160px;
+    height: 120px;
     background-color: aqua;
     border: 2px solid #666;
+    cursor: pointer;
+    font-size: 60px;
+    font-weight: bold;
+    color: rgb(196, 25, 39);
 }
 .btnn{
     padding: 10px;
+}
+.quad:hover{
+    background-color: rgb(16, 165, 165);
+}
+.title{
+    text-align: center;
+    padding-bottom: 20px;
 }
